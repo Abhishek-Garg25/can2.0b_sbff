@@ -1,0 +1,13 @@
+*.jou
+*.log
+*.pb
+*.xpr
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.wdb
+*.vcd
+*.vivado/
+waveform.*
